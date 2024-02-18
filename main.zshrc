@@ -31,4 +31,4 @@ export PATH="$PATH:$HOME/bin"
 alias mine=rubymine
 
 ### Machine
-source ./.machine.zshrc
+source "$HOME/.dotfiles/machine.zshrc"
